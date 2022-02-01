@@ -1,0 +1,17 @@
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\MainWindow.baml
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\MainWindow.g.cs
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\App.g.cs
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\WpfApplication20_MarkupCompile.cache
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\WpfApplication20.g.resources
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\bin\Release\WpfApplication20.exe
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\bin\Release\WpfApplication20.pdb
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\WpfApplication20.exe
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\WpfApplication20.pdb
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\bin\Release\WpfApplication20.exe.manifest
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\bin\Release\WpfApplication20.application
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\WpfApplication20.exe.manifest
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Release\WpfApplication20.application

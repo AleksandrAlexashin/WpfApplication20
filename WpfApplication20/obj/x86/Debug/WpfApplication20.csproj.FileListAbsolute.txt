@@ -1,0 +1,13 @@
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\bin\Debug\WpfApplication20.exe
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\bin\Debug\WpfApplication20.pdb
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\WpfApplication20_MarkupCompile.cache
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\WpfApplication20.g.resources
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\WpfApplication20.exe
+C:\Documents and Settings\Опер4\Мои документы\Visual Studio 2010\Projects\WpfApplication20\WpfApplication20\obj\x86\Debug\WpfApplication20.pdb

@@ -1,0 +1,56 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Электроник v1.0" Height="500" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Rectangle Margin="5" Stroke="#FFE20A0A" StrokeThickness="5" />
+            <TextBlock x:Name="otvet"  Margin="10
+" Height="95" Background="#FFA27C7C"  Cursor="Cross" TextAlignment="Right" FontSize="62" TextTrimming="WordEllipsis">
+            </TextBlock>
+
+        </Grid>
+
+        <Grid Grid.Row="1" Background="#FFD8E038">
+            <UniformGrid x:Name="klava" Rows="5" Columns="4" Margin="5">
+
+                <Button Content="1/x" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24BEE0"/>
+                <Button Content="x²" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24BEE0"/>
+                <Button Content="√x" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24BEE0"/>
+                <Button Content="/" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FFFF00E8"/>
+                <Button Content="7" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="8" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="9" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="*" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FFFF00E8"/>
+                <Button Content="4" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="5" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="6" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="-" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FFFF00E8"/>
+                <Button Content="1" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="2" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="3" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="+" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FFFF00E8"/>
+                <Button Content="C" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FFE08224" />
+                <Button Content="0" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24E04F"/>
+                <Button Content="." BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FFE08224"/>
+                <Button Content="=" BorderBrush="Black" FontWeight="Bold" FontSize="22" FontFamily="Tahoma" Background="#FF24BEE0"/>
+
+
+
+
+
+
+
+
+            </UniformGrid>
+
+        </Grid>
+
+
+    </Grid>
+
+</Window>
